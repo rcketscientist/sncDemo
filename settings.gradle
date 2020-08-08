@@ -1,0 +1,3 @@
+include ':SecurityModule'
+include ':app'
+rootProject.name = "SncDemo"
